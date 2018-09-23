@@ -3,7 +3,9 @@ A Disassembly of Manic Miner for the ZX Spectrum.
 
 This isn't the original source code written by Matthew Smith.   
  
-It is a disassembly created by William Humphreys of an original binary with a lot of useful help and changes by Simon Brattel. It has been created specifically to be assembled with the:
+It is a disassembly created by William Humphreys of an original binary with a lot of useful help and changes by Simon Brattel. 
+
+It has been created specifically to be assembled with the:
 
 Zeus Z80 Assembler / Disassembler / Emulator developed by Simon Brattal.  
 
